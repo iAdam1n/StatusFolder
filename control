@@ -1,0 +1,10 @@
+Package: com.iadam1n.statusfolder
+Name: StatusFolder
+Depends: mobilesubstrate
+Pre-Depends: firmware (>=9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show status bar in folders.
+Maintainer: iAdam1n
+Author: iAdam1n
+Section: Tweaks
