@@ -1,5 +1,5 @@
 include $(THEOS)/makefiles/common.mk
-ARCHS = armv7 arm64
+ARCHS = armv7 arm64 arm64e
 
 TWEAK_NAME = StatusFolder
 StatusFolder_FILES = Tweak.xm
